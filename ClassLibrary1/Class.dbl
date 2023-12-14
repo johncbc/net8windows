@@ -1,0 +1,15 @@
+import System
+import ClassLibrary2
+
+namespace ClassLibrary1
+
+    public class Class
+
+        public static method HelloWorld ,void
+        proc
+            Class1.HelloWorld()
+        endmethod
+
+    endclass
+
+endnamespace
